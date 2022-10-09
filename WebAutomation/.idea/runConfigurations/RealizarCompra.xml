@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RealizarCompra" type="JUnit" factoryName="JUnit">
+    <module name="WebAutomation.test" />
+    <selectedOptions>
+      <option name="environmentVariables" visible="false" />
+    </selectedOptions>
+    <shortenClasspath name="MANIFEST" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="jbr-11" />
+    <option name="PACKAGE_NAME" value="runners" />
+    <option name="MAIN_CLASS_NAME" value="runners.RealizarCompra" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="VM_PARAMETERS" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
